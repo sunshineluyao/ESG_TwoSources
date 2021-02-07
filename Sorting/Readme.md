@@ -1,4 +1,4 @@
 
-# First Create Benchmark
+# Step 1: Create Benchmark
 
-# Then calculate abnormal return
+# Step 2: calculate abnormal return
